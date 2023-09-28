@@ -18,6 +18,9 @@ https://www.youtube.com/watch?v=7gXN3NOaE9k
 
 Changes:
 
+Version 1.0.0.63
+Added option to output Equates as HEX or Clarion Long.
+
 Version 1.0.0.40
 Added setting to create Clarion Equates for each color and send to Clipboard
 
