@@ -15,3 +15,8 @@ https://www.youtube.com/watch?v=7gXN3NOaE9k
 <img src="https://github.com/donridley1972/ColorGenerator/blob/main/Screenshots/ColorGenerator.png" width=400/>
 
 <img src="https://github.com/donridley1972/ColorGenerator/blob/main/Screenshots/ColorPalette.png" width=400/>
+
+Changes:
+
+Version 1.0.0.9
+Added RGB Values to main window
