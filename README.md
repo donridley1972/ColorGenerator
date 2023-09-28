@@ -18,6 +18,9 @@ https://www.youtube.com/watch?v=7gXN3NOaE9k
 
 Changes:
 
+Version 1.0.0.40
+Added setting to create Clarion Equates for each color and send to Clipboard
+
 Version 1.0.0.33
 Added a Settings Table
 Added setting to display or hide palette values
