@@ -7,3 +7,7 @@ The color palette can be printed or saved as a PDF.
 A code signed installer is provided.
 
 Enjoy!
+
+<img src="https://github.com/donridley1972/ColorGenerator/blob/main/Screenshots/ColorGenerator.png" width=400/>
+
+<img src="https://github.com/donridley1972/ColorGenerator/blob/main/Screenshots/ColorPalette.png" width=400/>
