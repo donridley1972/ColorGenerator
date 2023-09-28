@@ -1,1 +1,9 @@
 # Color Generator
+
+This application allows you to select colors, either through the built in color picker, or by using the eye dropper to select a color anywhere on the screen(s).  A color palette is then generated based upon the selected color and color strategy.
+
+The color palette can be printed or saved as a PDF.
+
+A code signed installer is provided.
+
+Enjoy!
