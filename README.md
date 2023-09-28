@@ -18,5 +18,8 @@ https://www.youtube.com/watch?v=7gXN3NOaE9k
 
 Changes:
 
+Version 1.0.0.11
+Colors are regenerated when color strategy is changed.
+
 Version 1.0.0.9
 Added RGB Values to main window
