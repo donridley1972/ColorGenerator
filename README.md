@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=7gXN3NOaE9k
 
 Changes:
 
-Version 1.0.0.150        20230929
+Version 1.0.0.152        20230929
 
 Changed app colors using colors generated from the app.
 
