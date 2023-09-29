@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=7gXN3NOaE9k
 
 Changes:
 
-Version 1.0.0.108        20230929
+Version 1.0.0.120        20230929
 
 Added gradient image creation utility.
 
