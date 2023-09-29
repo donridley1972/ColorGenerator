@@ -21,6 +21,7 @@ Changes:
 Version 1.0.0.76        20230929
 
 Added option to create Equates as Clarion HEX values.
+
 Added option to save generated Equates to a text file.
 
 Version 1.0.0.63        20230928
@@ -34,6 +35,7 @@ Added setting to create Clarion Equates for each color and send to Clipboard
 Version 1.0.0.33        20230928
 
 Added a Settings Table
+
 Added setting to display or hide palette values
 
 Version 1.0.0.11        20230928
