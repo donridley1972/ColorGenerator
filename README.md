@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=7gXN3NOaE9k
 
 Changes:
 
-Version 1.0.0.126
+Version 1.0.0.127
 
 Added auto update
 
