@@ -18,9 +18,15 @@ https://www.youtube.com/watch?v=7gXN3NOaE9k
 
 Changes:
 
+Version 1.0.0.126
+
+Added auto update
+
+
 Version 1.0.0.120        20230929
 
 Added gradient image creation utility.
+
 
 Version 1.0.0.76        20230929
 
