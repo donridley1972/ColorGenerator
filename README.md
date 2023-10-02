@@ -18,6 +18,10 @@ https://www.youtube.com/watch?v=7gXN3NOaE9k
 
 Changes:
 
+Version 1.0.0.165        20231002
+
+Fixed an issue where mouse coordinates were incorrect if display scaled to other than 100.
+
 Version 1.0.0.152        20230929
 
 Changed app colors using colors generated from the app.
